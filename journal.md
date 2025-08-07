@@ -74,3 +74,14 @@ Final result:
 
 # If you made it till here i cant believe that you understoof wahtever i wrote, cause idc about typos and my grammar is bad sry!
 Thanks! Any suggestions? just create a issue/PR
+
+
+# Thanks Alex and others for the questions!
+## How will you connect the displays to the LS029B3SX02 dual displays?
+ - Basically the driver has a DP(display port) . If you see my BOM i have an active dp to hdmi adapter. thats how i will mirror my steam vr to the display!
+
+## The mpu is trashy..
+ - I dont think so.. Even if its trashy many mpus have the same pinout so i guess i can just change
+
+## Whhats the ping pong ball for.
+ - Explained in the journal. please check out hades vr guide too if your unsure
