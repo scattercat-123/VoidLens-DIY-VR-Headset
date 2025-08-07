@@ -13,6 +13,15 @@ Check out the [Journal](https://github.com/scattercat-123/VoidLens-DIY-VR-Headse
  - Uses 50mm focal fresnel Lenses
  - Fully costamizable and fully 3d printed beautiful body 😆
 
+## How will you connect the displays to the LS029B3SX02 dual displays?
+ - Basically the driver has a DP(display port) . If you see my BOM i have an active dp to hdmi adapter. thats how i will mirror my steam vr to the display!
+
+## The mpu is trashy..
+ - I dont think so.. Even if its trashy many mpus have the same pinout so i guess i can just change
+
+## Whhats the ping pong ball for.
+ - Explained in the journal. please check out hades vr guide too if your unsure
+
 ## Here are some pics of my design Journey!
 <img width="660" height="510" alt="image" src="https://github.com/user-attachments/assets/011fba0d-6bc0-46d6-a536-e2d46947bd45" />
 <img width="663" height="550" alt="image" src="https://github.com/user-attachments/assets/e389f937-2842-4165-8d60-20cf36fa9c13" />
