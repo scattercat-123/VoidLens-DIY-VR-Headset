@@ -23,4 +23,22 @@ So Basically my older Voidlens VR Headset I made for Highway was pretty good but
 
 **Total time spent: 2h 9m**
 
-# May 28th: 
+# May 28th: More CAD!
+
+Today I did more of the CAD not a lot and i logged my gtihub jounral and also like measured my battery
+
+# May 29th: Started PCB and added magnet fittings to the cad
+
+Basically i added magnetic fittings:
+<img width="313" height="407" alt="image" src="https://github.com/user-attachments/assets/672d1079-e6a1-43cc-ac92-0d22eb341a0b" />
+
+I will be like pausing the print putting the magnets and resuimng again o that magnets tay in place thsi doesnt leve any screw holes and  doesnt make it ugly like the  last design. intead its more satisfying.
+
+After i started the pcb dsign, My oroginal plan was to use the 3S Lipo battery but Lion's would be more effiecient and safe, firstly i did probably like a 30-45 min research on how do i design my own LDO but at the end i figured out it wouldnt work since the max voltage of 2S Lion is like 8.4 and if the ldo has to do a 3.4v dropput its very enefficient and makes the cicuit more hot. BTW i found this mh118650 lg batteries from and old power bank which doesnt work anymore but the batteries are pretty healthy!
+
+Then i had to make a bck converter circuit which was pretty easy and then i also did most of the pcb:
+<img width="871" height="652" alt="image" src="https://github.com/user-attachments/assets/bff7c310-b69d-4289-8731-3b43df893dfc" />
+
+So thats it.
+
+**Total time spent: About 2h**
